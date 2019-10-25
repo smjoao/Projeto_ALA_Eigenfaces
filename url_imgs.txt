@@ -169,3 +169,13 @@ Brian May:
 16. https://static.standard.co.uk/s3fs-public/thumbnails/image/2014/05/12/15/Brian%20May.jpg
 17. http://images5.fanpop.com/image/photos/30700000/Brian-May-brian-may-30729319-395-594.jpg
 
+Test Images:
+test_beatles1.jpg - https://s.hswstatic.com/gif/beatles-album-quiz-orig.jpg
+test_beatles2.jpg - https://d.newsweek.com/en/full/608531/pepperbeatles2.jpg
+test_queen1.jpg - http://www.oh-so-famous.de/sites/default/files/freddie-mercury-queen-band.jpg
+test_queen2.jpg - https://gfx.antyradio.pl/var/antyradio/storage/images/muzyka/rock-news/album-queen-najpopularniejsza-plyta-wszech-czasow-w-wielkiej-brytanii-9617/700258-1-pol-PL/Album-Queen-najpopularniejsza-plyta-wszech-czasow-w-Wielkiej-Brytanii_article.jpg
+test_queen3.jpg - https://queenphotos.files.wordpress.com/2013/05/queen-891.jpg
+test_hendrix1.jpg - https://blurppy.files.wordpress.com/2015/09/jimi_hendrix_1.jpg
+test_hendrix2.jpg - https://4.bp.blogspot.com/-6KrmjNvevdI/UJde9UVMSpI/AAAAAAAAFyg/Jj5NRPPDWl4/s1600/03+jimi+hendrix.jpg
+test_hendrix3.jpg - https://direstraitsblog.com/wp-content/uploads/2017/11/jimi-hendrix-08.jpg
+
